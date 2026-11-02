@@ -1,4 +1,4 @@
-#import "../functions.typ": styled_qed
+#import "functions.typ": styled_qed
 
 = Вопрос 2. Поверхностный интеграл первого рода и теорема о его существовании.
 

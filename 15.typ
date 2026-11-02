@@ -1,4 +1,4 @@
-#import "../functions.typ": *
+#import "functions.typ": *
 = Вопрос 15. Теорема Фейера
 
 *Теорема (Фейера).*

@@ -1,4 +1,4 @@
-#import "../functions.typ": *
+#import "functions.typ": *
 = Вопрос 4. Формула Стокса 
 
 == Формула Стокса
